@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dce22d1-3f66-4016-92a4-ec1a7cd4ab3f" name="Default Changelist" comment="" />
+    <list default="true" id="4dce22d1-3f66-4016-92a4-ec1a7cd4ab3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/ApplicationContextProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/ApplicationContextProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policyfixedifelse/src/test/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/policyfixedifelse/src/test/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImplTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/policyfixedifelse/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="22" column="62" selection-start-line="22" selection-end-line="23" />
+            <state relative-caret-position="77">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,10 +60,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/test/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="152">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -62,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="210">
+              <caret line="29" column="59" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#338#368#0" expanded="true" />
@@ -77,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/ApplicationContextProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="-603">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#768#769#0" expanded="true" />
@@ -97,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/annotation/HandlerType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="204">
               <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
             </state>
           </provider>
@@ -126,7 +144,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/GroupHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
@@ -169,14 +187,123 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="209">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#832#862#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="659" selection-start-line="659" selection-end-line="659" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/config/SingletonBeanRegistry.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="164" selection-start-line="164" selection-end-line="164" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="273" selection-start-line="273" selection-end-line="273" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="163" selection-start-line="163" selection-end-line="163" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-test/2.1.2.RELEASE/spring-boot-test-2.1.2.RELEASE.jar!/org/springframework/boot/test/context/SpringBootContextLoader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/support/DefaultTestContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.1.2.RELEASE/spring-boot-test-autoconfigure-2.1.2.RELEASE.jar!/org/springframework/boot/test/autoconfigure/SpringBootDependencyInjectionTestExecutionListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/TestContextManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -184,8 +311,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="85" column="63" lean-forward="true" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="68" />
+            <state relative-caret-position="802">
+              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1495#1496#0" expanded="true" />
@@ -205,7 +332,7 @@
         <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.1.4.RELEASE/spring-core-5.1.4.RELEASE.jar!/org/springframework/core/io/support/ResourcePatternResolver.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -239,6 +366,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -247,17 +377,18 @@
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/BeanTool.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/enums/constants.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/pom.xml" />
-        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/DTO/OrderDTO.java" />
-        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/annotation/HandlerType.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/GroupHandler.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/NormalHandler.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/PromotionHandler.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/enums/HandlerTypeEnum.java" />
+        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/ApplicationContextProvider.java" />
+        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java" />
+        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java" />
+        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java" />
         <option value="$PROJECT_DIR$/policyfixedifelse/src/test/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java" />
       </list>
     </option>
   </component>
@@ -267,6 +398,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -344,6 +476,17 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="logmei" type="462c0819:PsiDirectoryNode" />
               <item name="policyfixedifelse" type="462c0819:PsiDirectoryNode" />
+              <item name="DTO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="policyfixedifelse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="logmei" type="462c0819:PsiDirectoryNode" />
+              <item name="policyfixedifelse" type="462c0819:PsiDirectoryNode" />
               <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -368,6 +511,17 @@
               <item name="policyfixedifelse" type="462c0819:PsiDirectoryNode" />
               <item name="handler" type="462c0819:PsiDirectoryNode" />
               <item name="processor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="policyfixedifelse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="logmei" type="462c0819:PsiDirectoryNode" />
+              <item name="policyfixedifelse" type="462c0819:PsiDirectoryNode" />
+              <item name="scanner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springExamples" type="b2602c69:ProjectViewProjectNode" />
@@ -414,7 +568,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549194108902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549328898727" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -486,32 +640,47 @@
       <option name="presentableId" value="Default" />
       <updated>1549116644054</updated>
       <workItem from="1549116648017" duration="1939000" />
-      <workItem from="1549148566527" duration="17780000" />
+      <workItem from="1549148566527" duration="25272000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 18h 25m 25s.xml">
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 22h 48m 07s.xml">
       <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 18h 29m 38s.xml">
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 22h 49m 26s.xml">
       <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 19h 27m 42s.xml">
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 23h 09m 56s.xml">
       <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 19h 29m 38s.xml">
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 23h 14m 14s.xml">
       <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 19h 40m 02s.xml">
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 23h 16m 01s.xml">
+      <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 23h 19m 41s.xml">
+      <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.03 at 23h 22m 00s.xml">
+      <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.05 at 07h 44m 13s.xml">
+      <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.05 at 07h 45m 12s.xml">
+      <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceImplTest_handler - 2019.02.05 at 07h 46m 57s.xml">
       <configuration name="OrderServiceImplTest.handler" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19719000" />
+    <option name="totallyTimeSpent" value="27211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="703" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -524,8 +693,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32982457" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6175439" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33508772" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4446397" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50615114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -555,33 +724,45 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java</url>
-          <line>85</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java</url>
-          <line>65</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java</url>
-          <line>73</line>
+          <line>74</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java</url>
-          <line>66</line>
+          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>271</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>273</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>482</line>
+          <properties />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -608,91 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/ApplicationContextProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-            <element signature="e#1530#1531#0" expanded="true" />
-            <element signature="e#1596#1597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/annotation/HandlerType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/AbstractHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/enums/HandlerTypeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/DTO/OrderDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="22" column="62" selection-start-line="22" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#338#368#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/test/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/NormalHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -701,16 +797,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#606#607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -727,28 +813,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="85" column="63" lean-forward="true" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1495#1496#0" expanded="true" />
-            <element signature="e#1521#1522#0" expanded="true" />
-            <element signature="e#1597#1598#0" expanded="true" />
-            <element signature="e#1626#1627#0" expanded="true" />
-            <element signature="e#1706#1707#0" expanded="true" />
-            <element signature="e#1725#1726#0" expanded="true" />
-            <element signature="e#2953#2960#0" expanded="true" />
-            <element signature="e#2777#2787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.1.4.RELEASE/spring-core-5.1.4.RELEASE.jar!/org/springframework/core/io/support/ResourcePatternResolver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -767,6 +835,211 @@
             <element signature="imports" expanded="true" />
             <element signature="e#543#544#0" expanded="true" />
             <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-test/2.1.2.RELEASE/spring-boot-test-2.1.2.RELEASE.jar!/org/springframework/boot/test/context/SpringBootContextLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/support/DefaultTestContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.1.2.RELEASE/spring-boot-test-autoconfigure-2.1.2.RELEASE.jar!/org/springframework/boot/test/autoconfigure/SpringBootDependencyInjectionTestExecutionListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/TestContextManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/config/SingletonBeanRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="659" selection-start-line="659" selection-end-line="659" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/test/java/com/logmei/policyfixedifelse/service/impl/OrderServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/annotation/HandlerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/DTO/OrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/enums/HandlerTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/HandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#368#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/tools/ApplicationContextProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-603">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1596#1597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/scanner/ClassScaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#1521#1522#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1626#1627#0" expanded="true" />
+            <element signature="e#1706#1707#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+            <element signature="e#2953#2960#0" expanded="true" />
+            <element signature="e#2777#2787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policyfixedifelse/src/main/java/com/logmei/policyfixedifelse/handler/processor/HandlerProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#862#0" expanded="true" />
           </folding>
         </state>
       </provider>

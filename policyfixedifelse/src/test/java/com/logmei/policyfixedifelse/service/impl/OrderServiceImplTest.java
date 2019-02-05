@@ -7,8 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import static org.junit.Assert.*;
-
 @SpringBootTest
 @RunWith(SpringRunner.class)
 public class OrderServiceImplTest {
@@ -20,6 +18,7 @@ public class OrderServiceImplTest {
     public void handler() {
         OrderDTO orderDTO = new OrderDTO();
         orderDTO.setType("2");
-        orderService.handler(orderDTO);
+        String s = orderService.handler(orderDTO);
+        System.out.println(s);
     }
 }

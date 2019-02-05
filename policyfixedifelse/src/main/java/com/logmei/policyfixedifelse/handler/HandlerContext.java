@@ -1,7 +1,6 @@
 package com.logmei.policyfixedifelse.handler;
 
 import com.logmei.policyfixedifelse.tools.ApplicationContextProvider;
-import org.springframework.stereotype.Component;
 
 import java.util.Map;
 
@@ -12,7 +11,7 @@ import java.util.Map;
  * @ Modified By：
  * @Version: 1.0.0
  */
-@Component
+
 @SuppressWarnings("unchecked")
 public class HandlerContext {
 
@@ -23,7 +22,7 @@ public class HandlerContext {
         this.handlerMap = handlerMap;
     }
 
-    public AbstractHandler getInstance(String type){
+    public AbstractHandler getHandler(String type){
         Class clazz = handlerMap.get(type);
         if(clazz == null){
             throw new IllegalArgumentException(" not found handler for type :"+type);

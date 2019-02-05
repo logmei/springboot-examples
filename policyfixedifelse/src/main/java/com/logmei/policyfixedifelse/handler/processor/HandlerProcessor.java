@@ -22,8 +22,9 @@ import java.util.Map;
  * @Version: 1.0.0
  */
 @Component
+@SuppressWarnings("unchecked")
 public class HandlerProcessor implements BeanFactoryPostProcessor {
-    private static final String HANDLER_PACKAGE = "com.logmei.handler";
+    private static final String HANDLER_PACKAGE = "com.logmei.policyfixedifelse.handler";
     @Override
     public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansException {
         Map<String,Class> map = Maps.newHashMapWithExpectedSize(3);
@@ -35,6 +36,7 @@ public class HandlerProcessor implements BeanFactoryPostProcessor {
         });
         //初始化handlerContext
         HandlerContext handlerContext = new HandlerContext(map);
+        System.out.println("HandlerContext.class.getName():"+HandlerContext.class.getName());
         //注册到spring容器中
         beanFactory.registerSingleton(HandlerContext.class.getName(),handlerContext);
 

@@ -5,7 +5,7 @@ import com.logmei.policyfixedifelse.handler.AbstractHandler;
 import com.logmei.policyfixedifelse.handler.HandlerContext;
 import com.logmei.policyfixedifelse.service.IOrderService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 /**
  * @ Author     ：logmei.
@@ -14,13 +14,13 @@ import org.springframework.stereotype.Component;
  * @ Modified By：
  * @Version: 1.0.0
  */
-@Component
+@Service
 public class OrderServiceImpl implements IOrderService {
     @Autowired
     private HandlerContext handlerContext;
     @Override
     public String handler(OrderDTO orderDTO) {
-        AbstractHandler abstractHandler = handlerContext.getInstance(orderDTO.getType());
+        AbstractHandler abstractHandler = handlerContext.getHandler(orderDTO.getType());
         return abstractHandler.handler(orderDTO);
     }
 }
